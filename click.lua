@@ -1,5 +1,5 @@
 --It Taps Your Screen For Real So It Won't Walk You..
---Tbh other Auto Clicker scripts are Patched so I Maked one..
+--Tbh xxxxxxxxxx
 
 --Script
 
